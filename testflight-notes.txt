@@ -1,0 +1,11 @@
+Welcome to Muck — Ottawa's restaurant deals app.
+
+This is an early version. Use it the way you'd use any app to find something to eat tonight. Browse around, see what catches your eye, save things you like.
+
+A few things to know:
+- Only Ottawa restaurants right now
+- Sign in with Apple to save deals
+- No dark mode yet
+- If a deal looks wrong (bad price, closed restaurant, wrong hours), tap the flag icon on the deal — that helps us a lot
+
+If something feels off, broken, or annoying, hit the Feedback tab and tell us. Screenshots welcome.
